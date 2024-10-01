@@ -67,6 +67,7 @@ body {
     border: 1px solid #dddddd;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 10px;
     align-items: center;
     border-radius: 8px;
